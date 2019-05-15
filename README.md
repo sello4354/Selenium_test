@@ -1,0 +1,1 @@
+This project is created to be used by candidates interveiwing for Test Automation position
