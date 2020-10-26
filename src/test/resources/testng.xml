@@ -3,7 +3,7 @@
 
     <test name="Selenium Test" preserve-order="true">
 		<classes>
-                    <class name="com.qpid.interview.selenium_test.AmazonSerchandSort">
+                    
                     </class>
 		</classes>
 	</test>
